@@ -2,8 +2,10 @@
 
 1.Custom ChatGPT with own logo 
 
-2.Streaming output
+2.Streaming output similar to ChatGPT
 
-3.Deployed in Azure WebApp
+3.Uses Azure WebApp,Github,CI/CD(Github Actions),Azure KeyVault,Managed Identities, Streamlit(UI)
 
-4.OpenAI key needed to run this
+4.Uses OpenAI hence OpenAI key needed to run this
+
+5.Guardrails in place.
