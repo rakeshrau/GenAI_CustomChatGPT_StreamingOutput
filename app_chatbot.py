@@ -59,7 +59,7 @@ def add_logo(logo_path, width, height):
 
 # Sidebar contents
 with st.sidebar:
-    logo_path= Path(__file__).parent/'static/GSK_logo.png'
+    logo_path= Path(__file__).parent/'static/Company_logo.png'
     my_logo = add_logo(logo_path=str(logo_path), width=200, height=113)
 #Image on sidebar
     st.sidebar.image(my_logo)
@@ -71,7 +71,7 @@ with st.sidebar:
      
     
     
-    by Digital Fuel-Decision Science & AI team
+    by Rakesh Raushan
     """
     )
 st.title("Executive Assistant 🤖")
