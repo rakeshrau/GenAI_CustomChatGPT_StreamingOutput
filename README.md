@@ -4,6 +4,6 @@
 
 2.Streaming output
 
-3. Deployed in Azure WebApp
-   
+3.Deployed in Azure WebApp
+
 4.OpenAI key needed to run this
