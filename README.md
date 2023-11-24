@@ -1,2 +1,5 @@
 # GenAI_CustomChatGPT_StreamingOutput
-Custom version of ChatGPT built in Azure with streamong Output
+1.Custom ChatGPT with own logo 
+2.Streaming output
+3. Deployed in Azure WebApp
+4.OpenAI key needed to run this
