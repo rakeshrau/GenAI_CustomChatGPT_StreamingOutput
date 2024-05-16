@@ -4,7 +4,7 @@
 
 2.Streaming output similar to ChatGPT
 
-3.Uses Azure WebApp,Github,CI/CD(Github Actions),Azure KeyVault,Managed Identities, Streamlit(UI)
+3.Uses FAISS,Azure WebApp,Github,CI/CD(Github Actions),Azure KeyVault,Managed Identities, Streamlit(UI)
 
 4.Uses OpenAI hence OpenAI key needed to run this
 
